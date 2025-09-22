@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-with-adf-daniel",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ba7de36-1470-475b-9cc7-00bfb909066f",
+		"tenantId": "b1e36c07-5f02-420e-944c-1074be49618d"
+	}
+}
